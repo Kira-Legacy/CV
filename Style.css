@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 3.5vw;
+}
+
+.container {
+    width: 100%;
+}
+
+.containerleft {
+    width: 25%;
+}
+
+.containerleft img {
+    width: 70%;
+    height: 15vw;
+    border-radius: 100%;
+}
+
+.containerleft .personal {
+    margin-left: 5vw;
+}
+
+.containerleft .contact {
+    margin-left: 5vw;
+}
+
+.containerleft .language {
+    margin-left: 5vw;
+}
+
+.containerright {
+    width: 60%;
+}
