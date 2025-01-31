@@ -11,33 +11,52 @@ body {
 
 .container {
     width: 100%;
+    display: flex;
 }
 
 .containerleft {
     width: 25%;
+    margin-left: 2.0vw;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5vw;
+    border: 0.01vw solid rgb(170, 170, 170);
+    padding: 3vw;
+    border-radius: 3vw;
 }
+
+.containerleft .h2personal{
+    text-align: left;
+}
+
 
 .containerleft img {
-    width: 70%;
-    height: 15vw;
-    border-radius: 100%;
+    width: 85%;
+    height: 20vw;
 }
 
-.containerleft .personal {
-    margin-left: 5vw;
+.containerleft .tellink2{
+    margin-left: 4.5vw;
+    text-decoration: none;
 }
-
-.containerleft .contact {
-    margin-left: 5vw;
+.containerleft .tellink1{
+    text-decoration: none;
 }
-
-.containerleft .language {
-    margin-left: 5vw;
+.containerleft .Email{
+    text-decoration: none;
 }
-
 .containerright {
     width: 60%;
 }
 
-.phoneno {
+.containerright .innerdiv{
+    background-color: rgb(255, 50, 60);
+    color: white;
+    padding: 5vw;
+    border-radius: 5vw;
+}
+
+.containerright h3{
+    color: rgb(255, 50, 60);
+    margin-left: 5vw;
+    font-size: 2vw;
 }
