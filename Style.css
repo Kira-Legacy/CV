@@ -60,3 +60,44 @@ body {
     margin-left: 5vw;
     font-size: 2vw;
 }
+
+.educontainer{
+    display: flex;
+}
+
+.educontainer .eduleft{
+    margin-left: 5vw;
+    font-size: 1.5vw;
+    line-height: 0.5vw;
+}
+
+.educontainer .eduright{
+    margin-left: 10vw;
+    font-size: 1.5vw;
+}
+
+.educontainer .eduright p{
+    line-height: 0.5vw;
+}
+
+.workcontainer{
+    display: flex;
+    margin-left: 5vw;
+    width: 100%;
+}
+
+.workcontainer p{
+    font-size: 1.5vw;
+}
+
+.workcontainer .workleft{
+    width: 30%;
+}
+
+.workcontainer .workright{
+    width: 80%;
+    margin-left: 5vw;
+}
+
+
+
