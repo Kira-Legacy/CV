@@ -1,2 +1,1 @@
-// Some content will be here soon.
-    
+console.log(Hello, my CV);
