@@ -61,8 +61,13 @@ body {
     font-size: 2vw;
 }
 
+.divcontent{
+    width: 100%;
+}
+
 .educontainer{
     display: flex;
+    width: 100%;
 }
 
 .educontainer .eduleft{
@@ -86,13 +91,11 @@ body {
     font-size: 1.5vw;
 }
 
-.workcontainer .workleft{
-    width: 30%;
-}
+
 
 .workcontainer .workright{
-    margin-left: 3.5vw;
-   width: 55%;
+   margin-left: 10vw;
+  
 
 }
 
@@ -105,13 +108,23 @@ body {
     font-size: 1.5vw;
 }
 
+.certcontainer .certright{
+    margin-left: 10vw;
+}
+
 .extracontainer{
     margin-left: 5vw;
     display: flex;
+    width: 95%;
 }
-
+.extracontainer .extraleft{
+    width: 60%;
+}
 .extracontainer p{
     font-size: 1.5vw;
+}
+.extracontainer .extraright{
+    margin-left: 10vw;
 }
 
 .additional{
