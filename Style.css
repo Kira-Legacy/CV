@@ -31,7 +31,7 @@ body {
 
 .containerleft img {
     width: 85%;
-    height: 20vw;
+    height: 22vw;
 }
 
 .containerleft .tellink2{
@@ -45,7 +45,7 @@ body {
     text-decoration: none;
 }
 .containerright {
-    width: 60%;
+    width: 61.75%;
 }
 
 .containerright .innerdiv{
@@ -77,7 +77,7 @@ body {
 }
 
 .educontainer .eduright{
-    margin-left: 10vw;
+    margin-left: 7.5vw;
     font-size: 1.5vw;
 }
 
@@ -91,12 +91,9 @@ body {
     font-size: 1.5vw;
 }
 
-
-
 .workcontainer .workright{
-   margin-left: 10vw;
-  
-
+   margin-left: 5vw;
+    width: 61.75%; 
 }
 
 .certcontainer{
@@ -108,8 +105,12 @@ body {
     font-size: 1.5vw;
 }
 
+.certcontainer .certleft{
+    width: 21.5vw;
+}
+
 .certcontainer .certright{
-    margin-left: 10vw;
+    margin-left: 5vw;
 }
 
 .extracontainer{
@@ -118,13 +119,13 @@ body {
     width: 95%;
 }
 .extracontainer .extraleft{
-    width: 60%;
+    width: 60vw;
 }
 .extracontainer p{
     font-size: 1.5vw;
 }
 .extracontainer .extraright{
-    margin-left: 10vw;
+    margin-left: 2vw;
 }
 
 .additional{
@@ -146,12 +147,12 @@ body {
 }
 
 .refcontainer .refright{
-    margin-left: 10vw;
+    margin-left: 2vw;
     width: 50%;
 }
 
 .refcontainer .refleft{
-    width: 50%;
+    width: 30%;
 }
 
 .footer{
