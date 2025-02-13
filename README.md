@@ -1,2 +1,4 @@
 # CV
-Developing my Curriculum Vitae as a website using HTML, CSS and JavaScript. After developing the website, hosting it to the Internet.
+Developing my Curriculum Vitae as a website using HTML and CSS. After developing the website, hosting it to the Internet.
+As promised I have hosted the website.
+Click <a href="http://kirubeleshetu.infy.uk/">here</a> to check it out.
