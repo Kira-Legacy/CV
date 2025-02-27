@@ -223,6 +223,9 @@ body {
         margin: 0 auto;
         width: 90%;
     }
+    .containerright *{
+        font-size: 3vw;
+    }
 
     .footerdiv{
         height: 30vw;
