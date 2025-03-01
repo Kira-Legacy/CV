@@ -97,9 +97,11 @@ body {
 }
 
 .educontainer .eduright {
+    margin-top: -0.8vw;
     margin-left: 7.5vw;
     font-size: 1.5vw;
 }
+
 
 .workcontainer {
     display: flex;
@@ -115,7 +117,9 @@ body {
     margin-left: 5vw;
     width: 61.75%;
 }
-
+.workcontainer .workright .IT {
+    text-align: justify;
+}
 .certcontainer {
     margin-left: 5vw;
     display: flex;
@@ -142,9 +146,6 @@ body {
     margin-top: 3.2vw;
 }
 
-/* .certcontainer .certleft .feb20221{
-    margin-top: 3.2vw;
-} */
 .certcontainer .certleft .feb20222 {
     margin-top: 3.3vw;
 }
@@ -232,6 +233,42 @@ body {
 .refcontainer .refleft {
     width: 30%;
 }
+.containerright .refcontainer .refright .ermi1 {
+    text-decoration: none;
+}
+
+.containerright .refcontainer .refright .ermi2 {
+    margin-left: 4.3vw;
+    text-decoration: none;
+}
+.containerright .refcontainer .refright .ermi3{
+    margin-left: 1.3vw; 
+    text-decoration: none;
+}
+.containerright .refcontainer .refright .yekoye {
+    margin-top: 0vw;
+}
+
+.containerright .refcontainer .refright .yekoye .link0 {
+    text-decoration: none;
+}
+
+.containerright .refcontainer .refright .yekoye .link1 {
+    margin-left: 4.3vw;
+    text-decoration: none;
+}
+
+.containerright .refcontainer .refright .yekoye .link2 {
+    margin-left: 1.3vw;
+    text-decoration: none;
+}
+
+.containerright .refcontainer .refright .dani .tel{
+    text-decoration: none;
+}
+.containerright .refcontainer .refright .dani span{
+    margin-left: 1.5vw;
+}
 
 .original {
     margin-left: 3.0vw;
@@ -252,7 +289,7 @@ body {
     height: 6vw;
     font-size: 1.5vw;
     padding-top: 1.1vw;
-    padding-bottom: 2.3vw;
+    padding-bottom: 3.0vw;
     margin-top: 1.5vw;
 }
 
@@ -332,6 +369,12 @@ body {
     .containerright .educontainer .eduright {
         margin-top: 1vw;
         font-size: 4.8vw;
+    }
+    .containerright .educontainer .eduright .july2024{
+        margin-top: 0.5vw;  
+    }
+    .certcontainer .certleft .july2024 {
+        margin-top: 3.0vw;
     }
 
     .containerright .workcontainer .workright {
@@ -433,6 +476,10 @@ body {
         font-size: 4.8vw;
     }
 
+    .containerright .refcontainer .refright {
+        margin-right: 35vw;
+    }
+
     .containerright .refcontainer .refleft p {
         font-size: 4.8vw;
     }
@@ -441,14 +488,48 @@ body {
         font-size: 4.8vw;
     }
 
+    .containerright .refcontainer .refright .ermi1 {
+        text-decoration: none;
+    }
+
+    .containerright .refcontainer .refright .ermi2 {
+        margin-left: 0vw;
+        text-decoration: none;
+    }
+    .containerright .refcontainer .refright .ermi3{
+        margin-left: 0vw; 
+        text-decoration: none;
+    }
     .containerright .refcontainer .refright .yekoye {
-        margin-top: 15.5vw;
+        margin-top: 20.5vw;
+    }
+
+    .containerright .refcontainer .refright .yekoye .link0 {
+        text-decoration: none;
+    }
+
+    .containerright .refcontainer .refright .yekoye .link1 {
+        margin-left: 0vw;
+        text-decoration: none;
+    }
+
+    .containerright .refcontainer .refright .yekoye .link2 {
+        margin-left: 0vw;
+        text-decoration: none;
     }
 
     .containerright .refcontainer .refright .dani {
         margin-top: 19.5vw;
     }
 
+    .containerright .refcontainer .refright .dani a {
+        margin-left: 0vw;
+        text-decoration: none;
+    }
+
+    .containerright .refcontainer .refright .dani .tel{
+        margin-left: -1vw;
+    }
     .containerright .refcontainer .refright {
         margin-left: 10vw;
     }
