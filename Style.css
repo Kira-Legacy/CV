@@ -29,7 +29,7 @@ body {
 }
 
 
-.containerleft img {
+.containerleft .imageKET {
     width: 100%;
     height: 30vw;
     border-radius: 20%;
@@ -126,11 +126,52 @@ body {
 .certcontainer .certleft{
     width: 21.5vw;
 }
+.certcontainer .certleft .jul2024{
+    margin-top: 3.0vw;
+}
+.certcontainer .certleft .feb2022{
+    margin-top: 3.2vw;
+}
+.certcontainer .certleft .feb20221{
+    margin-top: 3.2vw;
+}
+.certcontainer .certleft .feb20222{
+    margin-top: 3.3vw;
+}
 
 .certcontainer .certright{
     margin-left: 5vw;
 }
-
+.certcontainer .certright .dataanalysis{
+    margin-top: 1vw;
+}
+.certcontainer .certright .andriod{
+    margin-top: 1vw;
+}
+.certcontainer .certright .programming{
+    margin-top: 1vw;
+}
+.certcontainer .certright .ison{
+    margin-top: 1vw;
+}
+.certcontainer .certright .evasue{
+    margin-top: 1vw;
+}
+.certcontainer .certright .dereja{
+    margin-top: 1.5vw;
+}
+.certconatiner .certright .coding1{
+    margin-top: 1.5vw;
+}
+.certcontainer .certright .coding2{
+    margin-top: 3.1vw;
+}
+.certcontainer .certright .coding3{
+    margin-top: 3.2vw;
+}
+.certcontainer .certright .space{
+    margin-top: 1.1vw;
+}
 .extracontainer{
     margin-left: 5vw;
     display: flex;
@@ -144,6 +185,14 @@ body {
 }
 .extracontainer .extraright{
     margin-left: 2vw;
+}
+.extracontainer .extraright .ptop{
+    text-align: justify; 
+    margin-top: 1.2vw;
+}
+.extracontainer .extraright .pbottom{
+    text-align: justify; 
+    margin-top: 3.0vw;
 }
 
 .additional{
@@ -193,9 +242,15 @@ body {
     padding-bottom: 2.3vw;
     margin-top: 1.5vw;
 }
-
+.inspire{
+    font-size: 1.5vw;
+    margin-left: 10vw;
+}
 @media (max-width: 950px) {
-    
+    body{
+        margin: 0;
+        padding: 0;
+    }
     .header{
         font-size: 11.8vw;
     }
@@ -206,7 +261,7 @@ body {
     }
     .containerleft{
       margin: 0 auto;
-      font-size: 5.8vw;
+      font-size: 4.8vw;
       width: 90%;
       text-align: center;
     
@@ -214,19 +269,147 @@ body {
     .containerleft .h2personal{
         text-align: center;
     }
-    .containerleft img{
-        width: 90%;
-        height: 60vw;
+    .containerleft .imageKET{
+        width: 100%;
+        height: 70vw;
         margin: 0 auto;
     }
-    .container .containerright{
+    .containerright{
         margin: 0 auto;
-        width: 90%;
-    }
-    .containerright *{
-        font-size: 3vw;
-    }
+        width: 100%;
 
+    }
+    .containerright .innerdiv .h1kirub{
+        font-size: 11vw;
+    }
+    .containerright .innerdiv .h2fresh{
+        font-size: 7vw;
+    }
+    .container h3{
+        font-size: 8vw;
+    }
+    .containerright .divcontent .bio{
+        font-size: 4.8vw;
+        line-height: 1.4;
+        margin-right: 3.0vw;
+
+
+    }
+    .containerright .divcontent h3{
+        font-size: 8vw;
+    }
+    
+    .containerright .educontainer .eduleft{
+        font-size: 4.8vw;
+    }
+    .containerright .educontainer .eduright{
+        margin-top: 1vw;
+        font-size: 4.8vw;
+    }
+    .containerright .workcontainer .workright{
+        margin-right: 8vw;
+        text-align: justify;
+    }
+    .containerright .workcontainer .workleft .AMN{
+        font-size: 4.8vw;
+    }
+    .containerright .workcontainer .workright .IT{
+        font-size: 4.8vw;
+    }
+    .containerright .certcontainer .certright{
+        margin-right: 3vw;
+    }
+    .containerright .certcontainer .certleft{
+        width: 50%;
+        margin-right: 3vw;
+    }
+    .containerright .certcontainer .certleft .jul2024{
+        margin-top: 10vw;
+    }
+    .containerright .certcontainer .certleft p{
+        font-size: 4.8vw;
+    }
+    .containerright .certcontainer .certleft i{
+        font-size: 4.0vw;
+    }
+    .containerright .certcontainer .certright p{
+        font-size: 4.0vw;
+    }
+    .containerright .certcontainer .certright .dataanalysis{
+        margin-top: 5vw;
+    }
+    .containerright .certcontainer .certright .andriod{
+        margin-top: 12vw;
+    }
+    .containerright .certcontainer .certright .programming{
+        margin-top: 11vw;
+    }
+    .containerright .certcontainer .certright .ison{
+        margin-top: 12vw;
+    }
+    .containerright .certcontainer .certright .evasue{
+        margin-top: 11.5vw;
+    }
+    .containerright .certcontainer .certright .dereja{
+        margin-top: -0.5vw;
+    }
+    .containerright .certcontainer .certright .coding1{
+        margin-top: -1.1vw;
+    }
+    .containerright .certcontainer .certright .coding2{
+        margin-top: 7vw;
+    }
+    .containerright .certcontainer .certright .coding2{
+        margin-top: 7vw;
+    }
+    .containerright .certcontainer .certright .coding3{
+        margin-top: 7vw;
+    }
+    .containerright .certcontainer .certright .space{
+        margin-top: 7vw;
+    }
+    .containerright .extracontainer .extraright{
+        margin-right: 5vw;
+        margin-left: 6vw;
+    }
+    .containerright .extracontainer .extraright .ptop{
+        margin-top: 4.8vw;
+    }
+    .containerright .extracontainer .extraright .pbottom{
+        margin-top: 15vw;
+    }
+    .containerright .extracontainer .extraleft p{
+        font-size: 4.8vw;
+    }
+    .containerright .extracontainer .extraright p{
+        font-size: 4.8vw;
+    }
+    .containerright .additional{
+        margin-right: 5vw;
+        text-align: justify;
+    }
+    .containerright .additional p{
+        font-size: 4.8vw;
+    }
+    .containerright .refcontainer .refleft p{
+        font-size: 4.8vw;
+    }
+    .containerright .refcontainer .refright p{
+        font-size: 4.8vw;
+    }
+    .containerright .refcontainer .refright .yekoye{
+        margin-top: 15.5vw;
+    }
+    .containerright .refcontainer .refright .dani{
+        margin-top: 19.5vw;
+    }
+    .containerright .refcontainer .refright{
+        margin-left: 10vw;
+    }
+    .inspire{
+        font-size: 4.8vw;
+        text-align: center;
+    }
     .footerdiv{
         height: 30vw;
         font-size: 5.8vw;
