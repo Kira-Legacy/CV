@@ -24,7 +24,7 @@ body {
     border-radius: 3vw;
 }
 
-.containerleft .h2personal{
+.containerleft .h2personal {
     text-align: left;
 }
 
@@ -36,203 +36,216 @@ body {
     justify-content: center;
 }
 
-.containerleft .tellink2{
+.containerleft .tellink2 {
     margin-left: 4.5vw;
     text-decoration: none;
 }
-.containerleft .tellink1{
+
+.containerleft .tellink1 {
     text-decoration: none;
 }
-.containerleft .Email{
+
+.containerleft .Email {
     text-decoration: none;
 }
+
 .containerright {
     width: 61.75%;
 }
 
-.containerright .innerdiv{
+.containerright .innerdiv {
     background-color: rgb(255, 50, 60);
     color: white;
     padding: 5vw;
     border-radius: 5vw;
 }
-.containerright .innerdiv .h1kirub{
+
+.containerright .innerdiv .h1kirub {
     font-size: 4vw;
 }
-.containerright .innerdiv .h2fresh{
+
+.containerright .innerdiv .h2fresh {
     font-size: 2.5vw;
 }
 
-.containerright .divcontent .bio{
-    margin-left: 5vw; 
-    line-height: 1.6vw; 
-    font-size: 1.45vw; 
+.containerright .divcontent .bio {
+    margin-left: 5vw;
+    line-height: 1.6vw;
+    font-size: 1.45vw;
     text-align: justify;
 }
 
-.containerright h3{
+.containerright h3 {
     color: rgb(255, 50, 60);
     margin-left: 5vw;
     font-size: 2vw;
 }
 
-.divcontent{
+.divcontent {
     width: 100%;
 }
 
-.educontainer{
+.educontainer {
     display: flex;
     width: 100%;
 }
 
-.educontainer .eduleft{
+.educontainer .eduleft {
     margin-left: 5vw;
     font-size: 1.5vw;
     line-height: 0.5vw;
 }
 
-.educontainer .eduright{
+.educontainer .eduright {
     margin-left: 7.5vw;
     font-size: 1.5vw;
 }
 
-.workcontainer{
+.workcontainer {
     display: flex;
     margin-left: 5vw;
     width: 100%;
 }
 
-.workcontainer p{
+.workcontainer p {
     font-size: 1.5vw;
 }
 
-.workcontainer .workright{
-   margin-left: 5vw;
-    width: 61.75%; 
+.workcontainer .workright {
+    margin-left: 5vw;
+    width: 61.75%;
 }
 
-.certcontainer{
+.certcontainer {
     margin-left: 5vw;
     display: flex;
 }
 
-.italic{
+.italic {
     font-size: 1.3vw;
 }
-.certcontainer p{
+
+.certcontainer p {
     font-size: 1.5vw;
 }
 
-.certcontainer .certleft{
+.certcontainer .certleft {
     width: 21.5vw;
 }
-.certcontainer .certleft .jul2024{
+
+.certcontainer .certleft .jul2024 {
     margin-top: 3.0vw;
 }
-.certcontainer .certleft .feb2022{
+
+.certcontainer .certleft .feb2022,
+.feb20221 {
     margin-top: 3.2vw;
 }
-.certcontainer .certleft .feb20221{
+
+/* .certcontainer .certleft .feb20221{
     margin-top: 3.2vw;
-}
-.certcontainer .certleft .feb20222{
+} */
+.certcontainer .certleft .feb20222 {
     margin-top: 3.3vw;
 }
 
-.certcontainer .certright{
+.certcontainer .certright {
     margin-left: 5vw;
 }
-.certcontainer .certright .dataanalysis{
+
+.certcontainer .certright .dataanalysis,
+.andriod,
+.programming,
+.ison,
+.evasue {
     margin-top: 1vw;
 }
-.certcontainer .certright .andriod{
-    margin-top: 1vw;
-}
-.certcontainer .certright .programming{
-    margin-top: 1vw;
-}
-.certcontainer .certright .ison{
-    margin-top: 1vw;
-}
-.certcontainer .certright .evasue{
-    margin-top: 1vw;
-}
-.certcontainer .certright .dereja{
+
+.certcontainer .certright .dereja,
+.coding1 {
     margin-top: 1.5vw;
 }
-.certconatiner .certright .coding1{
-    margin-top: 1.5vw;
-}
-.certcontainer .certright .coding2{
+
+.certcontainer .certright .coding2 {
     margin-top: 3.1vw;
 }
-.certcontainer .certright .coding3{
+
+.certcontainer .certright .coding3 {
     margin-top: 3.2vw;
 }
-.certcontainer .certright .space{
+
+.certcontainer .certright .space {
     margin-top: 1.1vw;
 }
-.extracontainer{
+
+.extracontainer {
     margin-left: 5vw;
     display: flex;
     width: 95%;
 }
-.extracontainer .extraleft{
+
+.extracontainer .extraleft {
     width: 60vw;
 }
-.extracontainer p{
+
+.extracontainer p {
     font-size: 1.5vw;
 }
-.extracontainer .extraright{
+
+.extracontainer .extraright {
     margin-left: 2vw;
 }
-.extracontainer .extraright .ptop{
-    text-align: justify; 
+
+.extracontainer .extraright .ptop {
+    text-align: justify;
     margin-top: 1.2vw;
 }
-.extracontainer .extraright .pbottom{
-    text-align: justify; 
+
+.extracontainer .extraright .pbottom {
+    text-align: justify;
     margin-top: 3.0vw;
 }
 
-.additional{
+.additional {
     margin-left: 5vw;
 }
 
-.additional p{
+.additional p {
     font-size: 1.5vw;
     text-align: justify;
 }
 
-.refcontainer{
+.refcontainer {
     margin-left: 5vw;
     display: flex;
 }
 
-.refcontainer p{
+.refcontainer p {
     font-size: 1.5vw;
 }
 
-.refcontainer .refright{
+.refcontainer .refright {
     margin-left: 2vw;
     width: 50%;
 }
 
-.refcontainer .refleft{
+.refcontainer .refleft {
     width: 30%;
 }
 
-.original{
+.original {
     margin-left: 3.0vw;
 }
 
-.original p{
+.original p {
     font-size: 1.5vw;
 }
-.original a{
+
+.original a {
     text-decoration: none;
 }
-.footerdiv{
+
+.footerdiv {
     text-align: center;
     background-color: black;
     color: white;
@@ -242,175 +255,210 @@ body {
     padding-bottom: 2.3vw;
     margin-top: 1.5vw;
 }
-.inspire{
+
+.inspire {
     font-size: 1.5vw;
     margin-left: 10vw;
 }
+
 @media (max-width: 950px) {
-    body{
+    body {
         margin: 0;
         padding: 0;
     }
-    .header{
+
+    .header {
         font-size: 11.8vw;
     }
-    .container{
+
+    .container {
         display: flex;
         flex-direction: column;
 
     }
-    .containerleft{
-      margin: 0 auto;
-      font-size: 4.8vw;
-      width: 90%;
-      text-align: center;
-    
+
+    .containerleft {
+        margin: 0 auto;
+        font-size: 4.8vw;
+        width: 90%;
+        text-align: center;
+
     }
-    .containerleft .h2personal{
+
+    .containerleft .h2personal {
         text-align: center;
     }
-    .containerleft .imageKET{
+
+    .containerleft .imageKET {
         width: 100%;
         height: 70vw;
         margin: 0 auto;
     }
-    .containerright{
+
+    .containerright {
         margin: 0 auto;
         width: 100%;
 
     }
-    .containerright .innerdiv .h1kirub{
+
+    .containerright .innerdiv .h1kirub {
         font-size: 11vw;
     }
-    .containerright .innerdiv .h2fresh{
+
+    .containerright .innerdiv .h2fresh {
         font-size: 7vw;
     }
-    .container h3{
+
+    .container h3 {
         font-size: 8vw;
     }
-    .containerright .divcontent .bio{
+
+    .containerright .divcontent .bio {
         font-size: 4.8vw;
         line-height: 1.4;
         margin-right: 3.0vw;
 
 
     }
-    .containerright .divcontent h3{
+
+    .containerright .divcontent h3 {
         font-size: 8vw;
     }
-    
-    .containerright .educontainer .eduleft{
+
+    .containerright .educontainer .eduleft {
         font-size: 4.8vw;
     }
-    .containerright .educontainer .eduright{
+
+    .containerright .educontainer .eduright {
         margin-top: 1vw;
         font-size: 4.8vw;
     }
-    .containerright .workcontainer .workright{
+
+    .containerright .workcontainer .workright {
         margin-right: 8vw;
         text-align: justify;
     }
-    .containerright .workcontainer .workleft .AMN{
+
+    .containerright .workcontainer .workleft .AMN {
         font-size: 4.8vw;
     }
-    .containerright .workcontainer .workright .IT{
+
+    .containerright .workcontainer .workright .IT {
         font-size: 4.8vw;
     }
-    .containerright .certcontainer .certright{
+
+    .containerright .certcontainer .certright {
         margin-right: 3vw;
     }
-    .containerright .certcontainer .certleft{
+
+    .containerright .certcontainer .certleft {
         width: 50%;
         margin-right: 3vw;
     }
-    .containerright .certcontainer .certleft .jul2024{
+
+    .containerright .certcontainer .certleft .jul2024 {
         margin-top: 10vw;
     }
-    .containerright .certcontainer .certleft p{
+
+    .containerright .certcontainer .certleft p {
         font-size: 4.8vw;
     }
-    .containerright .certcontainer .certleft i{
+
+    .containerright .certcontainer .certleft i {
         font-size: 4.0vw;
     }
-    .containerright .certcontainer .certright p{
+
+    .containerright .certcontainer .certright p {
         font-size: 4.0vw;
     }
-    .containerright .certcontainer .certright .dataanalysis{
+
+    .containerright .certcontainer .certright .dataanalysis {
         margin-top: 5vw;
     }
-    .containerright .certcontainer .certright .andriod{
+
+    .containerright .certcontainer .certright .andriod,
+    .ison {
         margin-top: 12vw;
     }
-    .containerright .certcontainer .certright .programming{
+
+    .containerright .certcontainer .certright .programming {
         margin-top: 11vw;
     }
-    .containerright .certcontainer .certright .ison{
-        margin-top: 12vw;
-    }
-    .containerright .certcontainer .certright .evasue{
+
+    .containerright .certcontainer .certright .evasue {
         margin-top: 11.5vw;
     }
-    .containerright .certcontainer .certright .dereja{
+
+    .containerright .certcontainer .certright .dereja {
         margin-top: -0.5vw;
     }
-    .containerright .certcontainer .certright .coding1{
+
+    .containerright .certcontainer .certright .coding1 {
         margin-top: -1.1vw;
     }
-    .containerright .certcontainer .certright .coding2{
+
+    .containerright .certcontainer .certright .coding2,
+    .coding3,
+    .space {
         margin-top: 7vw;
     }
-    .containerright .certcontainer .certright .coding2{
-        margin-top: 7vw;
-    }
-    .containerright .certcontainer .certright .coding3{
-        margin-top: 7vw;
-    }
-    .containerright .certcontainer .certright .space{
-        margin-top: 7vw;
-    }
-    .containerright .extracontainer .extraright{
+
+    .containerright .extracontainer .extraright {
         margin-right: 5vw;
         margin-left: 6vw;
     }
-    .containerright .extracontainer .extraright .ptop{
+
+    .containerright .extracontainer .extraright .ptop {
         margin-top: 4.8vw;
     }
-    .containerright .extracontainer .extraright .pbottom{
+
+    .containerright .extracontainer .extraright .pbottom {
         margin-top: 15vw;
     }
-    .containerright .extracontainer .extraleft p{
+
+    .containerright .extracontainer .extraleft p {
         font-size: 4.8vw;
     }
-    .containerright .extracontainer .extraright p{
+
+    .containerright .extracontainer .extraright p {
         font-size: 4.8vw;
     }
-    .containerright .additional{
+
+    .containerright .additional {
         margin-right: 5vw;
         text-align: justify;
     }
-    .containerright .additional p{
+
+    .containerright .additional p {
         font-size: 4.8vw;
     }
-    .containerright .refcontainer .refleft p{
+
+    .containerright .refcontainer .refleft p {
         font-size: 4.8vw;
     }
-    .containerright .refcontainer .refright p{
+
+    .containerright .refcontainer .refright p {
         font-size: 4.8vw;
     }
-    .containerright .refcontainer .refright .yekoye{
+
+    .containerright .refcontainer .refright .yekoye {
         margin-top: 15.5vw;
     }
-    .containerright .refcontainer .refright .dani{
+
+    .containerright .refcontainer .refright .dani {
         margin-top: 19.5vw;
     }
-    .containerright .refcontainer .refright{
+
+    .containerright .refcontainer .refright {
         margin-left: 10vw;
     }
-    .inspire{
+
+    .inspire {
         font-size: 4.8vw;
         text-align: center;
     }
-    .footerdiv{
+
+    .footerdiv {
         height: 30vw;
         font-size: 5.8vw;
     }
