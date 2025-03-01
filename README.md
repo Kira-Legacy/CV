@@ -1,5 +1,5 @@
 # CV
-(These article is before developing the whole webpage).
+(This article is before developing the whole webpage).
 
 Developing my Curriculum Vitae as a website using HTML and CSS. After developing the website, hosting it to the Internet. 
 
