@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding: 0;
+    overflow-x: hidden;
 }
 
 .header {
@@ -300,6 +301,7 @@ body {
 
 @media (max-width: 950px) {
     body {
+        overflow-x: hidden;
         margin: 0;
         padding: 0;
     }
@@ -334,8 +336,7 @@ body {
 
     .containerright {
         margin: 0 auto;
-        width: 100%;
-
+        width: 90%;
     }
 
     .containerright .innerdiv .h1kirub {
@@ -425,7 +426,7 @@ body {
     }
 
     .containerright .certcontainer .certright .programming {
-        margin-top: 11vw;
+        margin-top: 8vw;
     }
 
     .containerright .certcontainer .certright .evasue {
@@ -433,19 +434,23 @@ body {
     }
 
     .containerright .certcontainer .certright .dereja {
-        margin-top: -0.5vw;
+        margin-top: 8vw;
     }
 
     .containerright .certcontainer .certright .coding1 {
-        margin-top: -1.1vw;
+        margin-top: -0.5vw;
     }
 
-    .containerright .certcontainer .certright .coding2,
-    .coding3,
-    .space {
+    .containerright .certcontainer .certright .coding2 {
         margin-top: 7vw;
     }
-
+    .containerright .certcontainer .certright .coding3
+    {
+        margin-top: 8vw;
+    }
+    .containerright .certcontainer .certright .space{
+        margin-top: 7.5vw;
+    }
     .containerright .extracontainer .extraright {
         margin-right: 5vw;
         margin-left: 6vw;
@@ -501,7 +506,7 @@ body {
         text-decoration: none;
     }
     .containerright .refcontainer .refright .yekoye {
-        margin-top: 20.5vw;
+        margin-top: 21vw;
     }
 
     .containerright .refcontainer .refright .yekoye .link0 {
@@ -519,7 +524,7 @@ body {
     }
 
     .containerright .refcontainer .refright .dani {
-        margin-top: 19.5vw;
+        margin-top: 21vw;
     }
 
     .containerright .refcontainer .refright .dani a {
