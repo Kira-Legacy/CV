@@ -160,12 +160,11 @@ body {
 .programming,
 .ison,
 .evasue {
-    margin-top: 1vw;
+    margin-top: 1.2vw;
 }
 
-.certcontainer .certright .dereja,
-.coding1 {
-    margin-top: 1.5vw;
+.certcontainer .certright .dereja {
+    margin-top: 3vw;
 }
 
 .certcontainer .certright .coding2 {
@@ -177,7 +176,7 @@ body {
 }
 
 .certcontainer .certright .space {
-    margin-top: 1.1vw;
+    margin-top: 1.6vw;
 }
 
 .extracontainer {
@@ -299,7 +298,7 @@ body {
     margin-left: 10vw;
 }
 
-@media (max-width: 950px) {
+@media (max-width: 768px) {
     body {
         overflow-x: hidden;
         margin: 0;
@@ -333,8 +332,8 @@ body {
         height: 70vw;
         margin: 0 auto;
     }
-    
-    .containerright, .containerright .innerdiv{
+
+    .containerright {
         margin: 0 auto;
         width: 90%;
     }
@@ -430,19 +429,19 @@ body {
     }
 
     .containerright .certcontainer .certright .evasue {
-        margin-top: 11.5vw;
+        margin-top: 12vw;
     }
 
     .containerright .certcontainer .certright .dereja {
-        margin-top: 8vw;
+        margin-top: 9vw;
     }
 
     .containerright .certcontainer .certright .coding1 {
-        margin-top: -0.5vw;
+        margin-top: -1vw;
     }
 
     .containerright .certcontainer .certright .coding2 {
-        margin-top: 7vw;
+        margin-top: 8vw;
     }
     .containerright .certcontainer .certright .coding3
     {
@@ -460,6 +459,9 @@ body {
         margin-top: 4.8vw;
     }
 
+    .containerright .extracontainer .extraright .pbottom {
+        margin-top: 5vw;
+    }
 
     .containerright .extracontainer .extraleft p {
         font-size: 4.8vw;
