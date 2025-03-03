@@ -333,8 +333,8 @@ body {
         height: 70vw;
         margin: 0 auto;
     }
-
-    .containerright {
+    
+    .containerright, .containerright .innerdiv{
         margin: 0 auto;
         width: 90%;
     }
@@ -460,9 +460,6 @@ body {
         margin-top: 4.8vw;
     }
 
-    .containerright .extracontainer .extraright .pbottom {
-        margin-top: 15vw;
-    }
 
     .containerright .extracontainer .extraleft p {
         font-size: 4.8vw;
