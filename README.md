@@ -1,5 +1,5 @@
 # Carriculum Vitae
-# Article is before developing the webpage
+# Article before developing the webpage
 Developing my Curriculum Vitae as a website using HTML and CSS. After developing the website the plan is to host it on the Internet. 
 
 # Article after the completion of the task
