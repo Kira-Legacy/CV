@@ -10,4 +10,4 @@ As promised before completing the task, I have hosted the webpage.
 
  You can also take a look at the sample image of the CV below :)
 
- <img src = "https://github.com/Kira-Legacy/Image_Repo/CV_snapimage.png" alt = "CV project snap">
+ <img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/CV_snapimage.png" alt = "CV project snap">
