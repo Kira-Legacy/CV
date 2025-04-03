@@ -9,3 +9,5 @@ As promised before completing the task, I have hosted the webpage.
  Click <a href="http://kirubeleshetu.infy.uk/" style="text-decoration: none;">here</a> to check it out.
 
  You can also take a look at the sample image of the CV below :)
+
+ <img src = "https://github.com/Kira-Legacy/Image_Repo/CV_snapimage.png" alt = "CV project snap">
