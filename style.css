@@ -103,7 +103,6 @@ body {
     font-size: 1.5vw;
 }
 
-
 .workcontainer {
     display: flex;
     margin-left: 5vw;
@@ -157,11 +156,7 @@ body {
     margin-left: 5vw;
 }
 
-.certcontainer .certright .dataanalysis,
-.andriod,
-.programming,
-.ison,
-.evasue {
+.certcontainer .certright .dataanalysis, .andriod, .programming, .ison, .evasue {
     margin-top: 1.2vw;
 }
 
