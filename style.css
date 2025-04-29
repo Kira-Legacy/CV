@@ -300,7 +300,12 @@ body {
     margin-left: 10vw;
 }
 
-@media (max-width: 768px) {
+/* Mobile Devices: 319px - 480px
+iPads and Tablets: 482px - 1200px
+Laptops: 1201px - 1600px
+Desktops: 1601px and more. */
+
+@media (max-width: 1200px) {
     body {
         overflow-x: hidden;
         margin: 0;
