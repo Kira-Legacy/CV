@@ -305,7 +305,7 @@ iPads and Tablets: 482px - 1200px
 Laptops: 1201px - 1600px
 Desktops: 1601px and more. */
 
-@media (max-width: 600px) {
+@media (max-width: 800px) {
     body {
         overflow-x: hidden;
         margin: 0;
